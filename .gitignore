@@ -1,0 +1,17 @@
+*/
+!static_detection/
+!video_detection/
+!multi_object_tracking/
+!single_object_tracking/
+!deep_reinforcement_learning/
+!notes/
+!unsupervised/
+!interpolation/
+!deep_learning/
+!autoencoder/
+*.bat
+*.dat
+*.lnk
+*.mm
+*.ini
+list.txt
